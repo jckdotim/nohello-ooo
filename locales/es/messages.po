@@ -144,7 +144,7 @@ msgstr ""
 "Basado en el maravilloso [nohello.com](https://www.nohello.com/). Avatares "
 "tomados de  *[The "
 "Office](https://es.wikipedia.org/wiki/The_Office_(serie_británica))*. Open-"
-"source en [GitHub](https://github.com/nohello-net/site)."
+"source en [GitHub](https://github.com/jckdotim/nohello-ooo)."
 
 # prefix before a list of languages, i.e. This site is available in: English,
 # French, & German

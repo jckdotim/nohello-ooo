@@ -143,7 +143,7 @@ msgstr ""
 "[nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/)."
 " Profilbilder tagna från *[The "
 "Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*. "
-"Öppen källkod på [GitHub](https://github.com/nohello-net/site)."
+"Öppen källkod på [GitHub](https://github.com/jckdotim/nohello-ooo)."
 
 # prefix before a list of languages, i.e. This site is available in: English,
 # French, & German

@@ -125,7 +125,7 @@ msgid "footer.warning"
 msgstr "그 말은 누군가의 상태나 프로필에서 이 사이트의 URL을 보았다면, \"안녕하세요!\" 라고만 말할 경우에 무시당할 수도 있습니다."
 
 msgid "footer.thanks"
-msgstr "아주 멋진 [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/)를 기반으로 합니다. 아바타들은 *[The Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*에서 가져왔습니다. [GitHub](https://github.com/nohello-net/site)에 소스가 공개되어 있습니다."
+msgstr "아주 멋진 [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/)를 기반으로 합니다. 아바타들은 *[The Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*에서 가져왔습니다. [GitHub](https://github.com/jckdotim/nohello-ooo)에 소스가 공개되어 있습니다."
 
 # prefix before a list of languages, i.e. This site is available in: English, French, & German
 msgid "footer.languages"
