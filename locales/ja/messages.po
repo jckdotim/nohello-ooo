@@ -141,8 +141,8 @@ msgstr ""
 "このサイトは "
 "[nohello.com（英語）](https://web.archive.org/web/20131127020115/http://www.nohello.com/)を基にしています。アバターは"
 " *[The Office](https://ja.wikipedia.org/wiki/The_Office)* "
-"から入手しました。このサイトはオープンソースで、コードは[GitHub](https://github.com/nohello-"
-"net/site)にあります。"
+"から入手しました。このサイトはオープンソースで、コードは[GitHub](https://github.com/jckdotim"
+"/nohello-ooo)にあります。"
 
 # prefix before a list of languages, i.e. This site is available in: English,
 # French, & German
