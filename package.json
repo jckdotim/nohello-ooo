@@ -54,7 +54,7 @@
     "@11ty/eleventy-img": "^2.0.0",
     "gettext-parser": "^5.1.1",
     "glob": "^7.2.0",
-    "marked": "^4.0.12",
+    "marked": "^12.0.1",
     "node-gettext": "^3.0.0",
     "nunjucks": "^3.2.4",
     "patch-package": "^8.0.0",
