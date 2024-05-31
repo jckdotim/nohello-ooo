@@ -1,7 +1,11 @@
+# 
+# Translators:
+# Abu-Maher <itsabumaher@gmail.com>, 2024
+# 
 msgid ""
 msgstr ""
 "Last-Translator: Abu-Maher, 2024\n"
-"Language-Team: Arabic (https://app.transifex.com/nohello/nohellodotnet/language/ar/)\n"
+"Language-Team: Arabic (https://app.transifex.com/nohello/teams/131463/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
