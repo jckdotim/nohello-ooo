@@ -129,7 +129,7 @@ msgid "footer.warning"
 msgstr "ومع ذلك، إذا رأيت عنوان هذا الموقع كحالة شخص ما أو سيرته الذاتية، فاستعد للتجاهل إذا قلت فقط \"مرحبًا!\""
 
 msgid "footer.thanks"
-msgstr "مستند على الرائع [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/). الصور الرمزية مأخوذة من *[The Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*. مفتوح المصدر على [GitHub](https://github.com/nohello-net/site)."
+msgstr "مستند على الرائع [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/). الصور الرمزية مأخوذة من *[The Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*. مفتوح المصدر على [GitHub](https://github.com/jckdotim/nohello-ooo)."
 
 msgid "footer.languages"
 msgstr "هذا الموقع متاح باللغات:"
