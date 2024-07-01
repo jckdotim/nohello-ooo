@@ -42,7 +42,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-prettier": "^4.0.0",
-    "globby": "^13.1.1",
+    "globby": "^14.0.2",
     "mocha": "^10.4.0",
     "netlify-plugin-cache": "^1.0.3",
     "prettier": "^2.6.1",
